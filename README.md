@@ -14,9 +14,14 @@
 
 </p>
 
-## 1. Selecionando elementos do DOM
+## Módulo 1 - JQuery
 
-- [x] 1 - [Clique aqui para ver as anotações](https://github.com/lurafael/jquery-origamid/blob/main/01-selecionando-elementos-do-dom/app.js) :heavy_check_mark:
+- [x] 1 - Selecionando elementos no DOM [Clique aqui para ver as anotações](https://github.com/lurafael/jquery-origamid/blob/main/01-selecionando-elementos-no-dom/app.js) :heavy_check_mark:
+- [x] 2 - Manipulando o DOM - Inserção, inside [Clique aqui para ver as anotações](https://github.com/lurafael/jquery-origamid/blob/main/02-manipulando-o-dom-insercao-inside/js/app.js) :heavy_check_mark:
+
+## Módulo 2 - Prática com JQuery
+
+## Módulo 3 - Mais JQuery
 
 <br>
 
